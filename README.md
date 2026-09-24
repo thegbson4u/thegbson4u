@@ -1,265 +1,260 @@
-# Hi, I'm Prince Kumar Maurya 👋
+<div align="center">
 
-### AI/ML Engineer | Computer Vision Developer | Generative AI Enthusiast
+[![Header](https://capsule-render.vercel.app/api?type=rect&color=020617,0F172A,082F49&height=200&section=header&text=PRINCE_KUMAR_MAURYA.exe&fontColor=E0F2FE&fontSize=36&fontAlignY=45&fontAlign=50&desc=%5B+AI%2FML+%7C+BACKEND+%7C+COMPUTER_VISION+%7C+ROBOTICS+%5D&descColor=38BDF8&descAlignY=67&descSize=14)](https://github.com/thegbson4u)
 
-🚀 Turning AI ideas into practical systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=650&color=38BDF8&center=true&vCenter=true&width=720&lines=initializing+AI_engineer.exe...+%5BDONE%5D;building+computer_vision_systems...;engineering+RAG+pipelines...+%5BDONE%5D;debugging+backend_services...;deploying+real_world+AI...+%5BDONE%5D)](https://git.io/typing-svg)
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=thegbson4u&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge&labelColor=0F172A)](https://github.com/thegbson4u)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=E0F2FE&labelColor=0F172A)](https://www.linkedin.com/in/thegbson/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-22C55E?style=for-the-badge&logo=geeksforgeeks&logoColor=E0F2FE&labelColor=0F172A)](https://www.geeksforgeeks.org/profile/thegbson)
 
-## 👨‍💻 About Me
-
-🎓 B.Tech CSE Student at IEC College of Engineering and Technology, Greater Noida (2027)
-
-I am focused on building real-world AI systems using:
-
-* Machine Learning
-* Computer Vision
-* Deep Learning
-* Generative AI
-* Intelligent Automation
-
-I have worked on:
-
-* Real-time computer vision systems for ABU Robocon
-* AI-powered agriculture advisory platforms
-* YOLO-based detection systems
-* RAG + LLM document assistants
-* Streamlit-based AI deployments
-
-Currently learning:
-
-* LLMs
-* RAG Pipelines
-* Transformers
-* Agentic AI
-* Advanced Computer Vision
-* MLOps
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## ⚡ about me
 
-## 👨‍💻 Languages & Tools
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  NAME       →  Prince Kumar Maurya                          ║
+║  ROLE       →  B.Tech CSE · AI/ML & Backend Developer       ║
+║  COLLEGE    →  IEC College of Engineering & Technology     ║
+║  GRADUATION →  2027                                         ║
+║  FOCUS      →  AI/ML · Computer Vision · GenAI · Robotics  ║
+║  STATUS     →  Building + Learning + Shipping              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,linux,fastapi,docker" />
-</p>
-* Python
-* SQL
+> Building practical AI systems across **Computer Vision, Generative AI, Backend Engineering and Robotics**.
 
----
+### Currently working on
 
-## 🤖 AI/ML & Computer Vision
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-* Scikit-Learn
-* YOLO
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+- 🤖 Machine Learning & Computer Vision systems
+- 🧠 RAG pipelines and LLM integrations
+- ⚙️ Backend services and REST APIs
+- 🦾 Robotics automation and ROS2
+- 🚀 Real-world AI deployment
 
 ---
 
-## 🧠 Generative AI & NLP
+## 🧰 tech stack
 
-* LLM Fundamentals
-* RAG Pipelines
-* FAISS
-* LangChain
-* Prompt Engineering
-* Transformers
-* NLP
+<div align="center">
 
----
+### `LANGUAGES`
 
-# 🚀 Featured Projects
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FACC15)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
 
----
+### `BACKEND / FULL STACK`
 
-## 🌾 FASALGPT — AI Powered Agriculture Advisory Platform
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=22C55E)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=22C55E)
+![.NET](https://img.shields.io/badge/.NET-0F172A?style=for-the-badge&logo=dotnet&logoColor=38BDF8)
+![Streamlit](https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
-An AI-powered precision agriculture platform integrating Machine Learning, Deep Learning, and real-time weather intelligence. 
+### `AI / ML / COMPUTER VISION`
 
-### 🔹 Features
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-0F172A?style=for-the-badge&logo=opencv&logoColor=38BDF8)
+![YOLO](https://img.shields.io/badge/YOLO-0F172A?style=for-the-badge&logoColor=38BDF8)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0F172A?style=for-the-badge&logo=scikit-learn&logoColor=F97316)
 
-* 🌱 Crop recommendation using Random Forest
-* 🍃 Plant disease detection using CNN
-* ☁ Real-time weather advisory integration
-* 📊 Interactive Streamlit dashboard
-* 🤖 AI-assisted intelligent recommendations
+### `GENERATIVE AI`
 
-### 🔹 Tech Used
+![Hugging Face](https://img.shields.io/badge/HuggingFace-0F172A?style=for-the-badge&logo=huggingface&logoColor=FBBF24)
+![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logoColor=22C55E)
+![FAISS](https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge&logoColor=38BDF8)
+![RAG](https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logoColor=38BDF8)
 
-Python • TensorFlow • Scikit-Learn • OpenCV • Streamlit
+### `TOOLS / SYSTEMS`
 
-### 🔹 Highlights
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E0F2FE)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FACC15)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![ROS2](https://img.shields.io/badge/ROS2-0F172A?style=for-the-badge&logoColor=38BDF8)
 
-* Built ML pipelines for crop recommendation
-* Integrated OpenWeather API
-* Implemented CNN-based disease detection
-* Added interactive UI for real-time inference
-
-🔗 Repository:
-[https://github.com/thegbson4u/FASALGPT](https://github.com/thegbson4u/FASALGPT)
-
----
-
-## 📄 Smart Document QA System (NLP + RAG + LLM)
-
-An intelligent Retrieval-Augmented Generation (RAG) system for querying PDF/documents using LLMs.
-
-### 🔹 Features
-
-* 📚 PDF/document understanding
-* 🔍 Semantic search using FAISS
-* 🤖 Context-aware answer generation
-* 🧠 LLM-powered interaction
-* ⚡ Streamlit interface for querying
-
-### 🔹 Tech Used
-
-Python • FAISS • LangChain • LLMs • NLP • Streamlit
-
-### 🔹 Current Focus
-
-* Embedding optimization
-* Chunking pipelines
-* Prompt engineering
-* Retrieval accuracy improvement
-
-🔗 Repository:
-[https://github.com/thegbson4u/Smart-Document-QA-System-NLP-RAG-LLM-](https://github.com/thegbson4u/Smart-Document-QA-System-NLP-RAG-LLM-)
+</div>
 
 ---
 
-## 🎯 KFS Detection System
+## 💼 experience
 
-A YOLO-based computer vision detection system developed for Robocon automation workflows. 
+### `01` DECTIFY Technologies Pvt. Ltd.
+**Machine Learning Intern** · `August 2026 – Present`
 
-### 🔹 Features
+- Developing and debugging Python-based software workflows using modular, maintainable engineering practices.
+- Contributing to data processing, model development, and experimentation within a professional engineering team.
+- Working with Git/GitHub, Python, and structured development tools in a collaborative environment.
+- Collaborating on technical tasks involving real-world software development and problem-solving.
 
-* 🔍 Real-time object detection
-* 📦 YOLOv8 OBB inference pipeline
-* ⚡ Low-latency predictions
-* 🖥 Streamlit deployment interface
-* 📊 Confidence-based predictions
+### `02` NEOCAMBRIAN Industries Pvt. Ltd.
+**Data Collection Intern · Noida, Uttar Pradesh** · `June 2026 – July 2026`
 
-### 🔹 Tech Used
-
-Python • OpenCV • YOLOv8 • Streamlit
-
-### 🔹 Highlights
-
-* Built rotated bounding box detection system
-* Optimized inference pipeline
-* Designed clean detection visualization UI
-* Worked on automation-focused CV workflows
-
-🔗 Repository:
-[https://github.com/thegbson4u/kfs-streamlit-deploy](https://github.com/thegbson4u/kfs-streamlit-deploy)
+- Followed structured data acquisition, validation, and organization processes to maintain data quality and consistency.
+- Collected and maintained datasets for model training and evaluation within defined pipelines and workflows.
+- Collaborated with technical teams supporting robotics and computer vision applications.
 
 ---
 
-# 🤖 Robotics & Research Experience
+## 🚀 featured projects
 
-## 🏀 ABU Robocon 2025 — Computer Vision & Automation
+### `01` 🧠 Conversational Assessment Recommendation System
 
-* Developed real-time computer vision systems
-* Worked on detection and automation pipelines
-* Built targeting and detection workflows using OpenCV
-* Contributed to intelligent robotics integration
+**Python · FastAPI · FAISS · Sentence Transformers · LLM · Streamlit**
 
----
+> Semantic retrieval and LLM-powered assessment recommendation system.
 
-## ⚙ ABU Robocon 2026 — Co-Leader & Automation Head
+- Built backend services and REST APIs using FastAPI.
+- Developed reusable components for query processing, retrieval, prompt construction, and response generation.
+- Implemented semantic search and vector retrieval using Sentence Transformers and FAISS.
+- Designed an end-to-end architecture from data layer to user-facing responses.
 
-* Led automation and intelligent system workflows
-* Built KFS detection system for robotics automation
-* Worked on overall automation strategy and integration
-* Focused on real-time vision and intelligent robotics systems
+📂 **Repository:** [shl-assessment-agent](https://github.com/thegbson4u/shl-assessment-agent)
 
----
-
-## 🔬 IIT Delhi Robotics Exposure
-
-Worked on the TOTO robot platform offered through collaboration with IIT Delhi and Seinamtech.
-
-### Experience Included:
-
-* Robot learning and experimentation
-* Robotics system understanding
-* Autonomous system exposure
-* Sensor and automation workflows
+`March 2026 – April 2026`
 
 ---
 
-# 📜 Certifications
+### `02` 🎯 KFS Real-Time Detection System
 
-## ✅ Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp — Udemy
+**Python · YOLOv8s-OBB · OpenCV · Streamlit · NumPy · Ultralytics**
 
-🔗 [https://www.udemy.com/certificate/UC-8fa268e2-6683-4c59-9897-95586bb0a117/](https://www.udemy.com/certificate/UC-8fa268e2-6683-4c59-9897-95586bb0a117/)
+> Real-time computer vision detection system for robotics automation workflows.
 
----
+- Built an end-to-end workflow covering data preparation, model training, validation, and inference.
+- Developed a Streamlit application supporting multiple input modes and real-time processing.
+- Optimized inference workflows for reliable, responsive performance.
 
-## ✅ ROS 2 for Beginners (ROS Jazzy - 2025)
-
-Learned:
-
-* ROS2 architecture
-* Nodes & topics
-* Robot communication systems
-
-🔗 [https://udemy-certificate.s3.amazonaws.com/image/UC-cc0db07f-7209-4cb8-b359-8e0e7fc58dcd.jpg](https://udemy-certificate.s3.amazonaws.com/image/UC-cc0db07f-7209-4cb8-b359-8e0e7fc58dcd.jpg)
+📂 **Repository:** [kfs-streamlit-deploy](https://github.com/thegbson4u/kfs-streamlit-deploy)
 
 ---
 
-## 📘 NPTEL — Natural Language Processing (IIT Kharagpur) [In Progress]
+### `03` 🌾 FASALGPT — AI Agriculture Advisory System
 
-Learning:
+**Python · Machine Learning · CNN · Scikit-learn · TensorFlow · Streamlit · OpenWeather API**
 
-* Text preprocessing
-* Language modeling
-* POS tagging
-* Parsing
-* Text classification
-* NLP pipelines
+> AI-powered agriculture advisory application combining ML, deep learning and real-time weather intelligence.
 
----
+- Built structured data pipelines for preprocessing, transformation, and model inference.
+- Integrated a third-party weather API for real-time application data.
+- Built an interactive Streamlit application connecting backend inference with a user-facing interface.
 
-# 📊 Coding Profiles
+📂 **Repository:** [FASALGPT](https://github.com/thegbson4u/FASALGPT)
 
-💼 LinkedIn
-[https://www.linkedin.com/in/thegbson/](https://www.linkedin.com/in/thegbson/)
-
-💻 GeeksForGeeks
-[https://www.geeksforgeeks.org/profile/thegbson](https://www.geeksforgeeks.org/profile/thegbson)
-
-📧 Email
-[mauryaprince631@gmail.com](mailto:mauryaprince631@gmail.com)
+`November 2025 – February 2026`
 
 ---
 
-# 🎯 Current Goals
+## 🤖 robotics & software systems
 
-* Building practical AI applications
-* Learning advanced Generative AI systems
-* Exploring Agentic AI workflows
-* Improving Computer Vision pipelines
-* Preparing for AI/ML internship opportunities
+### `TOTO` — Autonomous Mobile Robot
+
+**IIT Delhi Research Platform · September 2025 – May 2026**
+
+`ROS2 · Python · Linux · Raspberry Pi 5 · Robotics · Computer Vision`
+
+**IEC College of Engineering & Technology**  
+Guided by **Prof. (Dr.) Subir Kumar Saha, IIT Delhi**
+
+- Worked on software integration and system design for autonomous navigation workflows on a ROS2-based platform.
+- Debugged software and system-integration issues affecting navigation and teleoperation.
+- Worked with ROS2 packages, workspaces, nodes, and sensor communication in a structured engineering environment.
 
 ---
 
-# ⚡ Fun Fact
+## 🦾 robotics / automation
 
-I enjoy building intelligent systems that combine:
+### `ABU ROBOCON`
 
-* AI
-* Computer Vision
-* Automation
-* Real-world deployment
+**Computer Vision · Automation · Intelligent Robotics**
 
-to solve practical engineering problems.
+- Developed real-time computer vision systems for robotics workflows.
+- Worked on detection and automation pipelines using OpenCV.
+- Contributed to targeting and detection workflows for intelligent robotics integration.
+- Worked on automation-focused computer vision systems.
+
+---
+
+## 🎓 education
+
+### IEC College of Engineering and Technology
+
+**Bachelor of Technology (B.Tech) — Computer Science and Engineering**
+
+`CGPA: 7.02 / 10` · `Expected Graduation: 2027`
+
+---
+
+## 📜 certifications
+
+- **Natural Language Processing** — NPTEL, IIT Kharagpur
+- **Data Science, Machine Learning & NLP Bootcamp** — Udemy
+
+---
+
+## 📊 coding profiles
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-thegbson4u-0F172A?style=for-the-badge&logo=github&logoColor=E0F2FE)](https://github.com/thegbson4u)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thegbson-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/thegbson/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-thegbson-0F172A?style=for-the-badge&logo=geeksforgeeks&logoColor=22C55E)](https://www.geeksforgeeks.org/profile/thegbson)
+
+</div>
+
+---
+
+## 📈 github stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thegbson4u&theme=2077" width="38%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thegbson4u&theme=2077" width="38%" />
+
+</div>
+
+---
+
+## 🐍 contribution matrix
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thegbson4u/thegbson4u/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thegbson4u/thegbson4u/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thegbson4u/thegbson4u/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 current mission
+
+```text
+[✓] Build practical AI applications
+[✓] Work with Computer Vision
+[✓] Develop RAG + LLM systems
+[✓] Explore robotics & automation
+[→] Deepen Agentic AI knowledge
+[→] Improve production AI engineering
+[→] Ship more real-world systems
+```
+
+---
+
+<div align="center">
+
+### `BUILD • DEBUG • DEPLOY • REPEAT`
+
+**AI/ML · Backend · Computer Vision · Generative AI · Robotics**
+
+📧 `mauryaprince631@gmail.com`
+
+</div>
