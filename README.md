@@ -16,12 +16,12 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  NAME       →  Prince Kumar Maurya                          ║
-║  ROLE       →  B.Tech CSE · AI/ML & Backend Developer       ║
-║  COLLEGE    →  IEC College of Engineering & Technology     ║
-║  GRADUATION →  2027                                         ║
-║  FOCUS      →  AI/ML · Computer Vision · GenAI · Robotics  ║
-║  STATUS     →  Building + Learning + Shipping              ║
+║  NAME       →  Prince Kumar Maurya                           ║
+║  ROLE       →  B.Tech CSE · AI/ML & Backend Developer        ║
+║  COLLEGE    →  IEC College of Engineering & Technology       ║
+║  GRADUATION →  2027                                          ║
+║  FOCUS      →  AI/ML · Computer Vision · GenAI · Robotics    ║
+║  STATUS     →  Building + Learning + Shipping                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
