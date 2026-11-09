@@ -187,7 +187,7 @@ Guided by **Prof. (Dr.) Subir Kumar Saha, IIT Delhi**
 
 **Bachelor of Technology (B.Tech) — Computer Science and Engineering**
 
-`CGPA: 7.02 / 10` · `Expected Graduation: 2027`
+`CGPA: 7.2 / 10` · `Expected Graduation: 2027`
 
 ---
 
